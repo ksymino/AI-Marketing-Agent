@@ -1,0 +1,1 @@
+ALTER TABLE `campaignResults` ADD `generatedImages` text;
