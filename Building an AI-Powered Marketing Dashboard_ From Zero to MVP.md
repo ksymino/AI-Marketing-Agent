@@ -1,5 +1,4 @@
 # Building an AI-Powered Marketing Dashboard: From Zero to MVP
-
 ## Introduction
 
 Over the past few weeks, We've built **AI Marketing Agent Dashboard**, a full-stack web application that automates marketing campaign creation using multi-agent AI systems. This journey involved designing a complex backend architecture, building a responsive frontend, integrating real LLM APIs, and iterating based on user feedback. In this post, I'll walk through the entire development process, the bugs we encountered, and how we solved them.
